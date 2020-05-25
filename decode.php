@@ -133,7 +133,7 @@
       <div class="container">
         <div class="row">
           <div class="col text-center">
-            <p>Copyright &copy; 2018.</p>
+            <p>Copyright &copy; 2020.</p>
           </div>
         </div>
       </div>
